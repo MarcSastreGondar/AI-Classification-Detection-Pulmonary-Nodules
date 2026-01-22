@@ -1,0 +1,3 @@
+model,mAP50,MediaIoU
+Faster R-CNN,0.5935,0.686
+RetinaNet,0.6058,0.6784
