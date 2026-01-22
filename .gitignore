@@ -15,7 +15,7 @@ build/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# Data files (muy grandes para git)
+# Data files demasiado grandes
 dataset_node21/
 dataset_node21/cxr_images/**/*.mha
 dataset_node21/ct_patches/**/*.mha
@@ -23,7 +23,7 @@ dataset_node21/ct_patches/**/*.mha
 
 # Mantener metadata.csv pero no subir imágenes
 
-# Models (archivos grandes)
+# Models (demasiado grandes)
 models/*.pth
 models/*.pt
 models/*.h5
